@@ -46,3 +46,8 @@ story = Story(
 
 # ans = {"verb": "eat", "noun": "mango"}
 # print(story.generate(ans))
+# print(story.prompts)
+## Once upon a time in a long-ago {place}, 
+# there lived a large {adjective} mango. It loved to eat {plural_noun}.
+
+
